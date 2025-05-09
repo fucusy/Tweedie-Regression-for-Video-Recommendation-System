@@ -1,3 +1,10 @@
+# Tweedie Regression for Video Recommendation
+<img width="993" alt="image" src="https://github.com/user-attachments/assets/03a8e09f-7a0a-4ee7-9365-92b13b14f2c4" />
+
+
+Paper accepected by ICMI 2025 IEEE 4th International Conference on Computing and Machine Intelligence April 05-06, 2025
+Being uploaded to arxiv, will be accessible soon
+
 ## Setup
 ```bash
 conda create -n recommender_env python=3.9
